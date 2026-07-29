@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Vishal Gore |
+| **LinkedIn** | [Vishal-Gore](https://www.linkedin.com/in/vishalgoreg/) |
+| **Location** | Pune, India |
+| **Background** | DevOps Intern @ The CloudAdvisory Oy | Azure AZ-900 Certified | AWS | Linux | CI/CD | Automation Enthusiast |
+| **Goal** | To become DevOps engineer |
 
 ---
 
@@ -43,13 +43,14 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Award | Post |
 |------|-------|------|
-| <!-- e.g. Week 03 --> | <!-- 🏆 Champion of the Week --> | <!-- [LinkedIn Post](#) --> |
+|  Week 03 | 🏆 Champion of the Week | [LinkedIn Post](https://lnkd.in/p/dhjGk9jQ) |
+|  Week 15 | 🏆 Champion of the Week | [LinkedIn Post](https://www.linkedin.com/posts/vishalgoreg_championoftheweek-dmi03-devops-activity-7460579673157197824-6lv_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8lgLkBveUwQUClSxpnH0hJ7FMHIVoN4ZM) |
 
 ### Leaderboard
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
+> 🥇 Cohort 2 Rank: **#53** <!-- Update this each week -->
 
 ---
 
